@@ -2,4 +2,4 @@
 
 🛠️ **Interests:** Software Development | Linux & Self-Hosting | Open Source Enthusiast
 
-📧 **Contact:** [contact@kalyanbiswas.dev](mailto:contact@kalyanbiswas.dev)
+📧 **Contact:** [kalyan@kalyanbiswas.dev](mailto:contact@kalyanbiswas.dev)
